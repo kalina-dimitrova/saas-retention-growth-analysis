@@ -44,6 +44,3 @@ Full presentation: [Results_Presentation.pptx](./Results_Presentation.pptx)
 ## Notes
 - The dataset is **synthetic** and came with a take-home exercise. It is shared for portfolio purposes only, so the findings describe the synthetic data, not a real product.
 - The forecast assumes stable growth and seasonality, and does not account for product launches, pricing changes or other structural shifts.
-
-## About me
-I am a data analyst and data scientist focused on turning data into clear, actionable insights for business and product decisions.
